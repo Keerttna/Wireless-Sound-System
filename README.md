@@ -16,7 +16,7 @@ The "Wireless Sound Control with Gesture Recognition" is a Python project that l
 
 5. User-Friendly Interface: The project provides an intuitive and user-friendly interface, making it accessible to a wide range of users, including those with limited technical expertise.
 
-6.Intuitive Gesture Control: The system offers a set of predefined, intuitive gestures for audio control, ensuring a consistent and user-friendly experience. Users can seamlessly adjust volume with these predefined gestures.
+6. Intuitive Gesture Control: The system offers a set of predefined, intuitive gestures for audio control, ensuring a consistent and user-friendly experience. Users can seamlessly adjust volume with these predefined gestures.
 
 ## Potential Applications:
 
