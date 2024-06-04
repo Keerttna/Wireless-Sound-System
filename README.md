@@ -33,6 +33,7 @@ The "Wireless Sound Control with Gesture Recognition" project represents an exci
 
 <img width="284" alt="image" src="https://github.com/Keerttna/Wireless-Sound-System/assets/127674493/342acc8f-4cf3-41e6-a267-fc6ce81ee305">
 
-<img width="284" alt="image" src="https://github.com/Keerttna/Wireless-Sound-System/assets/127674493/7aa290d0-b715-4f75-9e6d-63c750f92b22">
+<img width="339" alt="image" src="https://github.com/Keerttna/Wireless-Sound-System/assets/127674493/af686636-558f-41d1-9213-e45db2d4fdf5">
+
 
 
