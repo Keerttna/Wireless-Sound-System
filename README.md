@@ -26,3 +26,13 @@ The "Wireless Sound Control with Gesture Recognition" is a Python project that l
 - Interactive art installations
 
 The "Wireless Sound Control with Gesture Recognition" project represents an exciting and practical integration of Python libraries and computer vision technology, revolutionizing the way audio systems are controlled. This project opens up new possibilities for intuitive and user-friendly audio control, providing a valuable tool for various applications.
+
+## Project Output Screenshots
+
+<img width="284" alt="image" src="https://github.com/Keerttna/Wireless-Sound-System/assets/127674493/158bc42a-b309-42c2-8c63-5b39d1b3a984">
+
+<img width="284" alt="image" src="https://github.com/Keerttna/Wireless-Sound-System/assets/127674493/342acc8f-4cf3-41e6-a267-fc6ce81ee305">
+
+<img width="284" alt="image" src="https://github.com/Keerttna/Wireless-Sound-System/assets/127674493/7aa290d0-b715-4f75-9e6d-63c750f92b22">
+
+
